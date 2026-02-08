@@ -83,6 +83,8 @@ nav:
   - Configuration:
     - Stripe Setup: stripe-setup.md
     - DSGVO Encryption: dsgvo-encryption.md
+  - Features:
+    - Subscription Cancellation: subscription-cancellation.md
   - Guides:
     - Testing Guide: testing-guide.md
     - Toast Customization: toast-customization.md
